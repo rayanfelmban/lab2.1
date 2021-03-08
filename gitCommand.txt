@@ -1,0 +1,86 @@
+    1  sudo apt-get  update
+    2  sudo apt-get -y -install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
+    3  sudo apt-get -y install \ apt-transport-https ca-certificates curl gnupg-agent software-properties-common
+    4  sudo apt-get -y install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
+    5  sudo apt-get -y install apt-transport-https ca-vertificates curl gnupg-agent \
+    6  sudo apt-get -y install apt-transport-https ca-certificates curl gnupg-agent \ 
+    7  sudo apt-get -y install apt-transport-https ca-certificates curl gnupg-agent 
+    8  clear
+    9  sudo apt-get -y install apt-transport-https
+   10  sudo apt-get update
+   11  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
+   12  ps ax | grep -i apt
+   13  sudo killall apt apt-get 
+   14  kill -9 3658
+   15  sudo kill -9 3658
+   16  sudo kill -9 3674
+   17  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
+   18  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -OK
+   19  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+   20  sudo apt-key fingerprint 0EBFCD88
+   21  mkdor lab2.1
+   22  mkdir lab2.1
+   23  cd mkdir 
+   24  ll
+   25  mkdir lab2.1
+   26  ll
+   27  ls
+   28  sudo mkdir lab2.1
+   29  ll
+   30  ls
+   31  cd lab2.1/
+   32  ll
+   33  git --version
+   34  git config --global user.email "rayan_felmban@hotmail.com"
+   35  git config --global user.username "rayanfelmban"
+   36  touch index.html file.txt cprog.c javaprog.java index.js style.css typo.ts 
+   37  ls
+   38  ll
+   39  ls -latr
+   40  vim javaprog.java 
+   41  vim index.html 
+   42  mkdir sources
+   43  cd sources/
+   44  touch file.txt
+   45  touch file.ts
+   46  cd ..
+   47  git init
+   48  git status
+   49  git add 
+   50  git add .
+   51  git status
+   52  git commit . -m "This folder include all the demo files"
+   53  git config --global user.name "rayanfelmban"
+   54  git commit . -m "This folder include all the demo files"
+   55  git remote add origin https://github.com/rayanfelmban/lab2.1.git
+   56  git push -u origin main
+   57  git remote add origin git@github.com:rayanfelmban/lab2.1.git
+   58  git push -u origin main
+   59  git@github.com:rayanfelmban/lab2.1.git
+   60  git push -u origin main
+   61  git remote remove origin
+   62  git@github.com:rayanfelmban/lab2.1.git
+   63  git remote add origin git@github.com:rayanfelmban/lab2.1.git
+   64  git push -u origin main
+   65  git checkout -B main
+   66  git push -u origin main
+   67  sudo git push -u origin main
+   68  ssh -vT git@rayanfelmban
+   69  nc -zv localhost:22
+   70  nc -zv localhost 22
+   71  ssh-add -l -E sha256
+   72  git@github.com:rayanfelmban/lab2.1.git
+   73  git init
+   74  git add README.md
+   75  git branch -M main
+   76  git remote add origin git@github.com:rayanfelmban/lab2.1.git
+   77  git push -u origin main
+   78  git config --global user.username "rayanfelmban"
+   79  git push -u origin main
+   80  git config --global user.username "rayanfelmban"
+   81  git config --global user.'username "rayanfelmban"
+   82  git config 
+   83  git config --global 
+   84  git remote add origin https://github.com/rayanfelmban/lab2.1.git
+   85  git push -u origin main
+   86  history > gitCommand.txt
